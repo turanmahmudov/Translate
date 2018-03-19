@@ -1,0 +1,16 @@
+{
+    "name": "translate.turan-mahmudov-l",
+    "description": "description of Translate",
+    "architecture": "@CLICK_ARCH@",
+    "title": "Translate",
+    "hooks": {
+        "Translate": {
+            "apparmor": "Translate/Translate.apparmor",
+            "desktop":  "Translate/Translate.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Turan Mahmudov <turan.mahmudov@gmail.com>",
+    "framework" : "ubuntu-sdk-15.04.6"
+}
+

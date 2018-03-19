@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Main.qml</file>
+        <file>qml/ui/AboutPage.qml</file>
+        <file>qml/ui/TranslatePage.qml</file>
+        <file>Translate.png</file>
+        <file>qml/ui/LanguageChooserPage.qml</file>
+        <file>qml/components/LanguageChooserPanel.qml</file>
+        <file>qml/components/SearchPanel.qml</file>
+        <file>qml/js/scripts.js</file>
+        <file>qml/js/Worker.js</file>
+        <file>qml/components/BouncingProgressBar.qml</file>
+    </qresource>
+</RCC>

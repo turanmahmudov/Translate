@@ -1,0 +1,7 @@
+[Desktop Entry]
+_Name=Translate
+Exec=Translate
+Icon=Translate/Translate.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
