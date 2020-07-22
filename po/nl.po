@@ -1,0 +1,298 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-19 23:43+0000\n"
+"PO-Revision-Date: 2020-07-22 19:18+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"Last-Translator: Heimen Stoffels <vistausss@outlook.com>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: nl\n"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/Main.qml:40
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/TranslatePage.qml:12
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/TranslateTest.qml:9
+#: /home/turan/Apps/Ubuntu/build-Translate-UbuntuSDK_for_builder_amd64_xenial_GCC_amd64_ubuntu_sdk_16_04-Debug/Translate/Translate.desktop.h:1
+msgid "Translate"
+msgstr "Vertalen"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/Main.qml:47
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/AboutPage.qml:8
+msgid "About"
+msgstr "Over"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/Main.qml:109
+msgid "Donate me"
+msgstr "Doneren"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/Main.qml:110
+msgid "Donate to support me continue developing for Ubuntu."
+msgstr "Doneer aan mij zodat ik apps kan blijven maken voor Ubuntu."
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/Main.qml:116
+msgid "Ignore"
+msgstr "Negeren"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/Main.qml:122
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/AboutPage.qml:17
+msgid "Donate"
+msgstr "Doneren"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/AboutPage.qml:67
+msgid "Translate Application"
+msgstr "Vertaal deze app"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/AboutPage.qml:95
+msgid "Released under the terms of the GNU GPL v3"
+msgstr "Uitgebracht onder de voorwaarden van de GNU GPL v3"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/AboutPage.qml:104
+#, qt-format
+msgid "Source code available on %1"
+msgstr "De broncode is beschikbaar op %1"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:9
+msgid "Translate from"
+msgstr "Vertalen van"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:9
+msgid "Translate to"
+msgstr "Vertalen naar"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:13
+msgid "Close"
+msgstr "Sluiten"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:30
+msgid "Albanian"
+msgstr "Albanees"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:31
+msgid "Arabic"
+msgstr "Arabisch"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:32
+msgid "Armenian"
+msgstr "Armeens"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:33
+msgid "Azerbaijan"
+msgstr "Azerbeidzjaans"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:34
+msgid "Belarusian"
+msgstr "Wit-Russisch"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:35
+msgid "Bosnian"
+msgstr "Bosnisch"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:36
+msgid "Bulgarian"
+msgstr "Bulgaars"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:37
+msgid "Catalan"
+msgstr "Catalaans"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:38
+msgid "Chinese"
+msgstr "Chinees"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:39
+msgid "Croatian"
+msgstr "Kroatisch"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:40
+msgid "Czech"
+msgstr "Tsjechisch"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:41
+msgid "Danish"
+msgstr "Deens"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:42
+msgid "Dutch"
+msgstr "Nederlands"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:43
+msgid "English"
+msgstr "Engels"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:44
+msgid "Estonian"
+msgstr "Ests"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:45
+msgid "Finnish"
+msgstr "Fins"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:46
+msgid "French"
+msgstr "Frans"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:47
+msgid "Galician"
+msgstr "Galicisch"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:48
+msgid "Georgian"
+msgstr "Georgisch"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:49
+msgid "German"
+msgstr "Duits"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:50
+msgid "Greek"
+msgstr "Grieks"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:51
+msgid "Hebrew"
+msgstr "Hebreeuws"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:52
+msgid "Hindi"
+msgstr "Hindi"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:53
+msgid "Hungarian"
+msgstr "Hongaars"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:54
+msgid "Icelandic"
+msgstr "IJslands"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:55
+msgid "Indonesian"
+msgstr "Indonesisch"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:56
+msgid "Italian"
+msgstr "Italiaans"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:57
+msgid "Japanese"
+msgstr "Japans"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:58
+msgid "Korean"
+msgstr "Koreaans"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:59
+msgid "Kurdish"
+msgstr "Koerdisch"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:60
+msgid "Latvian"
+msgstr "Lets"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:61
+msgid "Lithuanian"
+msgstr "Litouws"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:62
+msgid "Macedonian"
+msgstr "Macedonisch"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:63
+msgid "Malay"
+msgstr "Maleis"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:64
+msgid "Maltese"
+msgstr "Maltees"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:65
+msgid "Mandarin"
+msgstr "Mandarijn"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:66
+msgid "Norwegian"
+msgstr "Noors"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:67
+msgid "Persian"
+msgstr "Perzisch"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:68
+msgid "Polish"
+msgstr "Pools"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:69
+msgid "Portuguese"
+msgstr "Portugees"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:70
+msgid "Romanian"
+msgstr "Romaans"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:71
+msgid "Russian"
+msgstr "Russisch"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:72
+msgid "Serbian"
+msgstr "Servisch"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:73
+msgid "Slovak"
+msgstr "Slowaaks"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:74
+msgid "Slovenian"
+msgstr "Sloveens"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:75
+msgid "Spanish"
+msgstr "Spaans"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:76
+msgid "Swedish"
+msgstr "Zweeds"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:77
+msgid "Turkish"
+msgstr "Turks"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:78
+msgid "Ukranian"
+msgstr "Oekraïens"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:79
+msgid "Vietnamese"
+msgstr "Vietnamees"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/LanguageChooserPage.qml:80
+msgid "Welsh"
+msgstr "Wels"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/TranslatePage.qml:96
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/TranslateTest.qml:190
+msgid "Translations"
+msgstr "Vertalingen"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/TranslatePage.qml:197
+msgid "Search anything"
+msgstr "Geef een zoekterm op"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/TranslatePage.qml:197
+msgid "No results found"
+msgstr "Geen resultaten"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/TranslateTest.qml:18
+msgid "Change languages"
+msgstr "Andere talen kiezen"
+
+#: /home/turan/Apps/Ubuntu/Translate/Translate/qml/ui/TranslateTest.qml:174
+msgid "Tap to enter text"
+msgstr "Druk om tekst in te voeren"
